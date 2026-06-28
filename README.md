@@ -2,7 +2,7 @@
 
 **Student:** Gurbani Bal
 **Student ID:** BITSOM_BA_25111041
-**Program:** Business Analytics — BITSOM
+**Program:** Business Analytics with Gen & Agentic AI
 **Repository:** `gurbanibal_bitsom_ba_25111041_part2_kpi_experiment`
 
 ---
